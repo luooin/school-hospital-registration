@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2d14822-7220-4c62-acc9-82cdc01cae8d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4\maven-repo" />
+        <option name="mavenHome" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2cAzjnNzG5PMBFnFfRxGgveOp5q" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.springbooty2577 [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SpringbootSchemaApplication.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/文件/论文/2024年6月21日/基于SpringBoot+Vue的校医院挂号平台/school-hospital-registration/springboot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringbootSchemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbooty2577" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.SpringbootSchemaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <created>1712114429043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712114429043</updated>
+      <workItem from="1712114430526" duration="305000" />
+      <workItem from="1712114916823" duration="2273000" />
+      <workItem from="1712117326365" duration="3007000" />
+      <workItem from="1712126680348" duration="2837000" />
+      <workItem from="1712375483846" duration="2762000" />
+      <workItem from="1712382051258" duration="4678000" />
+      <workItem from="1712388787688" duration="1701000" />
+      <workItem from="1712390675511" duration="2403000" />
+      <workItem from="1712450798507" duration="764000" />
+      <workItem from="1712451731518" duration="152000" />
+      <workItem from="1712451943196" duration="884000" />
+      <workItem from="1712453028603" duration="2508000" />
+      <workItem from="1712473233377" duration="1567000" />
+      <workItem from="1712491928631" duration="1744000" />
+      <workItem from="1712537509426" duration="582000" />
+      <workItem from="1712564074981" duration="2981000" />
+      <workItem from="1712624610618" duration="3855000" />
+      <workItem from="1712644027153" duration="1393000" />
+      <workItem from="1712728883302" duration="1246000" />
+      <workItem from="1713269914313" duration="968000" />
+      <workItem from="1713605526281" duration="3202000" />
+      <workItem from="1713626893962" duration="1182000" />
+      <workItem from="1713683655542" duration="584000" />
+      <workItem from="1713872505412" duration="1111000" />
+      <workItem from="1713960436747" duration="5718000" />
+      <workItem from="1714132879897" duration="7415000" />
+      <workItem from="1714144706590" duration="1082000" />
+      <workItem from="1714182744887" duration="3477000" />
+      <workItem from="1714211432714" duration="9212000" />
+      <workItem from="1714274839653" duration="3650000" />
+      <workItem from="1714617545515" duration="1187000" />
+      <workItem from="1714788770250" duration="1182000" />
+      <workItem from="1715042146478" duration="3984000" />
+      <workItem from="1715237832950" duration="5873000" />
+      <workItem from="1715254096543" duration="7993000" />
+      <workItem from="1715741828793" duration="5931000" />
+      <workItem from="1715863340545" duration="1478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
